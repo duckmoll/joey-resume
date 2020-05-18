@@ -1,21 +1,21 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Joey Liu",
+    "occupation":"Data Scientist",
+    "description":"I am a junior full stack data scientist and eager to solve data problems with pragmatic technologies",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I leverage big data to uncover in-depth consumer insights and create data-driven investment strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools like Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jl6340@nyu.edu",
+    "phone": "917-808-6351",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"New York",
+      "state":"NY",
+      "zip": "10001"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/files/empty.pdf",
     "social":[
       {
         "name":"facebook",
@@ -23,24 +23,9 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -58,60 +43,54 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"New York University",
+        "degree":"Bachelor in Mathematics and Economics",
+        "graduated":"May 2018",
+        "description":"Statistics, Theory of Probability, Linear Algebra, Advanced Econometrics, Math Modeling, etc"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Balyasny Asset Management",
+        "title":"Data Scientist",
+        "years":"Jan 2018 - Aug 2018 & Jun 2020 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"M Science LLC",
+        "title":"Data Scientist",
+        "years":"Aug 2018 - Jun 2020",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"Data Wrangling - Spark, SQL, Python, Excel",
+        "level":"80%"
+      },
+      {
+        "name":"Data-Driven Investment Research",
+        "level":"70%"
+      },
+      {
+        "name":"Analytics",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Data Visualization",
+        "level":"60%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Machine Learning & Recommander System",
+        "level":"40%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Web Development - Website, IOS",
+        "level":"70%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Product Management",
+        "level":"60%"
       }
     ]
   },
