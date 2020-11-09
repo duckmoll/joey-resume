@@ -2,9 +2,9 @@
   "main": {
     "name":"Joey Liu",
     "occupation":"Data Scientist",
-    "description":"I am a junior full stack data scientist and eager to solve data problems with pragmatic technologies",
+    "description":"I am a full stack data scientist, and I'm eager to monetize data and data technologies.",
     "image":"profilepic.jpg",
-    "bio":"I leverage big data to uncover in-depth consumer insights and create data-driven investment strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools like Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
+    "bio":"I leverage big data to uncover in-depth insights and create data-driven investment strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools such as Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jl6340@nyu.edu",
     "phone": "917-808-6351",
@@ -18,11 +18,6 @@
     "resumedownload":"/files/empty.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
@@ -31,16 +26,11 @@
         "name":"github",
         "url":"http://github.com/tbakerx",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"New York University",
@@ -54,13 +44,13 @@
         "company":"Balyasny Asset Management",
         "title":"Data Scientist",
         "years":"Jan 2018 - Aug 2018 & Jun 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Monetize and assess various kinds of datasets; independently launch two $50 million data-driven systematic trading strategies that generated strong risk-adjusted return, using statistical analysis and modeling."
       },
       {
         "company":"M Science LLC",
         "title":"Data Scientist",
         "years":"Aug 2018 - Jun 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Managed and devloped Consumer Trends Data Product for UK and French Market, that delivered mark to market trading insights based on prediction of consumer spending behavior for major hedge funds and asset managers."
       }
     ],
     "skills":[
@@ -69,11 +59,11 @@
         "level":"80%"
       },
       {
-        "name":"Data-Driven Investment Research",
+        "name":"Financial Modeling & Investment Research",
         "level":"70%"
       },
       {
-        "name":"Analytics",
+        "name":"Data Analytics",
         "level":"60%"
       },
       {
@@ -81,7 +71,7 @@
         "level":"60%"
       },
       {
-        "name":"Machine Learning & Recommander System",
+        "name":"Machine Learning",
         "level":"40%"
       },
       {
