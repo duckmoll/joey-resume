@@ -87,16 +87,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Personal Website",
+        "category":"",
+        "image":"personal-website.PNG",
+        "url":"https://github.com/duckmoll/joey-resume"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Bogoo, self-made dating app",
+        "category":"Bogoo, IOS dating app and its frontend codebase",
+        "image":"bogoo.png",
+        "url":"https://github.com/duckmoll/new_dawn_ios_playground"
       },
       {
         "title":"Original Thai Food",
