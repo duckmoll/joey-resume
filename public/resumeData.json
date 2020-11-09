@@ -3,8 +3,8 @@
     "name":"Joey Liu",
     "occupation":"Data Scientist",
     "description":"I am a full stack data scientist, and I'm eager to monetize data and data technologies.",
-    "image":"profilepic.jpg",
-    "bio":"I leverage big data to uncover in-depth insights and create data-driven investment strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools such as Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
+    "image":"profilepic.png",
+    "bio":"I leverage big data to uncover in-depth investment insights and create strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools such as Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jl6340@nyu.edu",
     "phone": "917-808-6351",
@@ -100,7 +100,7 @@
       },
       {
         "title":"Pipamag",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"NGO",
         "image":"original-thai-food.jpg",
         "url":"https://pipamag.org/"
       }
