@@ -88,33 +88,21 @@
     "projects": [
       {
         "title":"Personal Website",
-        "category":"",
+        "category":"Website",
         "image":"personal-website.PNG",
         "url":"https://github.com/duckmoll/joey-resume"
       },
       {
         "title":"Bogoo, self-made dating app",
-        "category":"Bogoo, IOS dating app and its frontend codebase",
+        "category":"IOS project with recommander system",
         "image":"bogoo.png",
         "url":"https://github.com/duckmoll/new_dawn_ios_playground"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Pipamag",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://pipamag.org/"
       }
     ]
   },
