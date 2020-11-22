@@ -2,7 +2,7 @@
   "main": {
     "name":"Joey Liu",
     "occupation":"Data Scientist",
-    "description":"",
+    "description":"I aspire to leverage big data and data science in investment",
     "image":"profilepic.png",
     "bio":"I leverage big data to uncover in-depth investment insights and create strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools such as Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
