@@ -2,7 +2,7 @@
   "main": {
     "name":"Joey Liu",
     "occupation":"Data Scientist",
-    "description":"I am a full stack data scientist, and I'm eager to monetize data and data technologies.",
+    "description":"",
     "image":"profilepic.png",
     "bio":"I leverage big data to uncover in-depth investment insights and create strategies. I have professional experience in Spark, SQL, Tableau, Airflow and Python. On the side, I built Web and IOS applications with tools such as Django, ReactJS, Swift and cloud technologies like AWS and GCP.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -15,16 +15,16 @@
       "zip": "10001"
     },
     "website": "",
-    "resumedownload":"/files/empty.pdf",
+    "resumedownload":"/files/Joey Resume.pdf",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/junlin-joey-liu-089a73107/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/duckmoll",
         "className":"fa fa-github"
       }
     ]
