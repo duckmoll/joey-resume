@@ -3,7 +3,7 @@ A personal resume website template built with ReactJs
 
 https://www.joeywebpage.io/
 
-这是一个我用别人的模板写的个人网站。你可以用我的这个当作模板做个你自己的网站。
+这是一个我用别人的模板写的个人网站。你可以用这个当作模板做个你自己的网站。
 
 这个网站是用javascript 作为语言，React作为框架写的。
 
